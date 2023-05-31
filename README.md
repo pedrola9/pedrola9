@@ -1,16 +1,14 @@
-### Hi there 👋
+### boas vindas ao meu perfil
 
-<!--
-**pedrola9/pedrola9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é pedro
 
-Here are some ideas to get you started:
+estou estudando na alura
+estou me desenvolvendo na linguagem javascript
+utilizo esse espaço para me organizar 
+e compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### para vocẽ entrar em contato
+
+pedro.eschipio@escola.pr.gov.br
+
+![](https://media.tenor.com/9NurlfOJ9i8AAAAM/angry-nope.gif)

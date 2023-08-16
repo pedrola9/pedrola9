@@ -12,3 +12,4 @@ e compartilhar meus projetos
 pedro.eschipio@escola.pr.gov.br
 
 ![](https://media.tenor.com/9NurlfOJ9i8AAAAM/angry-nope.gif)
+
